@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PMX OTA</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Button_start">Start</string>
+    <string name="Button_clean">Clear log</string>
+    <string name="title_activity_select_file">Select a File</string>
+    <string name="tv_upgraded_file_path_label">Upgraded File : </string>
+    <string name="tv_rc_mac_label">Device Mac : </string>
+    <string name="btn_select_upgraded_file">Select an OTA file</string>
+    <string name="btn_device_picker">Select a device</string>
+    <string name="btn_connect">Connect the device</string>
+    <string name="btn_disconnect">Disconnect the device</string>
+    <string name="tb_verbose_log_open">Verbose log on</string>
+	<string name="tb_verbose_log_close">Verbose log off</string>
+	<string name="err_msg_no_select_upgraded_file">Please select an OTA file to write.</string>
+	<string name="msg_ota_is_writing">Remote control is writing firmware now.\nPlease wait it.</string>
+	<string name="msg_ota_is_run">OTA already ran!!</string>
+	<string name="msg_result_fail">Fail</string>
+	<string name="msg_result_success">Success</string>
+	<string name = "tv_path_label">PATH : </string>
+	
+	<string name="bt_device_search_list">Reachable Bluetooth Devices</string>
+	<string name="no_devices">No devices found!</string>
+	<string name="device_picker_title">AndroHid - Search Devices</string>
+	<string name="bluetooth_not_enabled">Bluetooth not enabled!</string>
+	
+
+</resources>
